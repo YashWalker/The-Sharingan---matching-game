@@ -1,0 +1,19 @@
+{
+  "name": "the-sharingan",
+  "version": "1.0.0",
+  "description": "memory matching game ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YashWalker/MemoryGame.git"
+  },
+  "author": "Yash WAlker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YashWalker/MemoryGame/issues"
+  },
+  "homepage": "https://github.com/YashWalker/MemoryGame#readme"
+}
