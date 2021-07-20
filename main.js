@@ -82,8 +82,10 @@ function startGame() {
     m.innerText = `Moves: ${moves}`;
 
 
-    time = 100;
-    t.innerText = `Timer: 100 sec`;
+    time = 80;
+    t.innerText = `Timer: 80 sec`;
+
+    matched = [];
 
     
 }
@@ -236,6 +238,14 @@ function restart(){
    
     end.classList.remove("endgame");
     end.classList.add("end");
+
+    img.forEach(function(a){
+        a.classList.remove("disabled");
+        a.classList.remove("match");
+    })
+
+
+    startGame()
 
 
 }
