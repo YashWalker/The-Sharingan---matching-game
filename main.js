@@ -82,7 +82,7 @@ function startGame() {
     m.innerText = `Moves: ${moves}`;
 
 
-    time = 10;
+    time = 100;
     t.innerText = `Timer: 100 sec`;
 
     
