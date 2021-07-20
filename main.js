@@ -99,7 +99,7 @@ function preview(){
         for(i=0; i<imgData.length; i++) {
             imgData[i].classList.remove("show-img")
         }
-    }, 3000)
+    }, 2000)
 }
 
 //display card by toggling show-img className
