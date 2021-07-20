@@ -8,12 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YashWalker/MemoryGame.git"
+    "url": "git+https://github.com/YashWalker/The-Sharingan---matching-game.git"
   },
   "author": "Yash WAlker",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/YashWalker/MemoryGame/issues"
-  },
-  "homepage": "https://github.com/YashWalker/MemoryGame#readme"
+    "url": "https://github.com/YashWalker/The-Sharingan---matching-game/issues"
+  }
 }
